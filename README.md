@@ -48,8 +48,6 @@ This is public data, but note that due to data-privacy issues riders PII (person
 6. Values <= 0 were dropped from the trip_length column.
 7. New columns for day_of_the_week and month were created.
 
-#### ANALYZE
-
 **Descriptive statistics**
 
 The summary statistics for trip_length indicate that the variable has a right-skewed distribution, with a relatively high mean compared to the median. 
