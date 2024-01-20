@@ -69,7 +69,7 @@ The below images display the top start and end stations for both casual and memb
 ![Top 10 start station](https://github.com/Mide203/Google-Capstone-Project-Cyclistic-bike-share-analysis/assets/130792306/036bc178-3c27-4841-9614-f7a3dd07cdfa)
 
 
-###ACT
+#### ACT
 
 **Recommendations**
 
