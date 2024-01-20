@@ -38,7 +38,7 @@ The data has been made available by Motivate International Inc. under this [lice
 
 This is public data, but note that due to data-privacy issues riders PII (personally identifiable information) are prohibited from being used.
 
-#### ANALYZE
+#### PROCESS
 
 1. The dataset was imported into R and merged into a single data frame.
 2. The column headers were renamed.
@@ -47,6 +47,8 @@ This is public data, but note that due to data-privacy issues riders PII (person
 5. The length of each trip was calculated in minutes
 6. Values <= 0 were dropped from the trip_length column.
 7. New columns for day_of_the_week and month were created.
+
+#### ANALYZE
 
 **Descriptive statistics**
 
@@ -78,6 +80,6 @@ The below images display the top start and end stations for both casual and memb
 
 2. Target digital media campaigns : Since peak activity for casual riders occurs at 17:00, targeted digital media campaigns may be run during peak activity hours to maximize their effectiveness.
 
-3. Provide more docked bikes : To attract more casual riders, since they are exclusively used by them. 
+3. Promotions on docked bikes : Targeted promotions for annual memberships on docked bikes, as they are primarily used by casual riders.
 
 4. Promote the benefits of annual membership : To effectively communicate the advantages of annual membership to casual riders, targeted advertising strategies(eg. informative flyers) should be implemented at the top stations frequented by casual riders.
