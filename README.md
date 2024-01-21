@@ -40,7 +40,7 @@ This is public data, but note that due to data-privacy issues riders PII (person
 
 #### PROCESS
 
-1. The dataset was imported into R and merged into a single data frame.
+1. The dataset was imported into R Studio and merged into a single data frame.
 2. The column headers were renamed.
 3. Null, NA values and duplicates were dropped.
 4. The start_time and end_time columns were changed from character data type to date and time format.
