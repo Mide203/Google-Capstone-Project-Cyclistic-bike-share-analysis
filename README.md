@@ -61,7 +61,8 @@ The summary statistics for trip_length indicate that the variable has a right-sk
 
 The data visualization was done using Tableau. Please see the interactive dashboard by clicking [this](https://public.tableau.com/app/profile/ayomide.onayemi/viz/Bikeshare_17055266326250/Dashboard2) and download as a Tableau Workbook
 
-![Dashboard 2](https://github.com/Mide203/Google-Capstone-Project-Cyclistic-bike-share-analysis/assets/130792306/f217836a-96d1-4d03-b941-902cb3adb6b1)
+![The Dashboard](https://github.com/Mide203/Google-Capstone-Project-Cyclistic-bike-share-analysis/assets/130792306/f67212f2-d34b-45e1-9c76-7ce5630773f6)
+
 
 
 The below images display the top start and end stations for both casual and member riders, providing additional insights into the most frequently used locations by each rider category.
