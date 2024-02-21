@@ -61,7 +61,8 @@ The summary statistics for trip_length indicate that the variable has a right-sk
 
 The data visualization was done using Tableau. Please see the interactive dashboard by clicking [this](https://public.tableau.com/app/profile/ayomide.onayemi/viz/Bikeshare_17055266326250/Dashboard2) and download as a Tableau Workbook
 
-![The Dashboard](https://github.com/Mide203/Google-Capstone-Project-Cyclistic-bike-share-analysis/assets/130792306/f67212f2-d34b-45e1-9c76-7ce5630773f6)
+
+![The Dashboard](https://github.com/Mide203/Google-Capstone-Project-Cyclistic-bike-share-analysis/assets/130792306/f7237ca0-5ede-4f2a-94dc-01d40a41b4ef)
 
 
 
